@@ -1,0 +1,16 @@
+## Mitigate log manipulation
+
+{
+	"Version": "2012-10-17",
+	"Statement": [
+		{
+			"Sid": "Statement1",
+			"Effect": "Deny",
+			"Action": [
+			    "cloudtrail:stoplogging",
+		    	"cloudtrail:deletetrail"
+		    ],
+			"Resource": "*"
+		}
+	]
+}
