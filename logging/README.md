@@ -1,5 +1,5 @@
 
-## Manually creating a trail
+# Manually creating a trail due to autocreate implications
 ![location and name](Screenshot_25-11-2024_121752_us-east-1.console.aws.amazon.com.jpeg)
 
 ## Location and name

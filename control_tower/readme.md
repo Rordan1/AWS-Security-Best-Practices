@@ -11,7 +11,7 @@
 ![alt text](Screenshot_22-11-2024_125136_us-east-1.console.aws.amazon.com.jpeg)
 
 # Options to choose Identity and ensure logging
-## - The cloudtrail requires manual set up (as can be seen from the logging folder)
+## - The cloudtrail required manual set up (as can be seen from the logging folder)
 
 ![alt text](Screenshot_22-11-2024_10012_us-east-1.console.aws.amazon.com.jpeg)
 
