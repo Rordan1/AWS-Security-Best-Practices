@@ -1,6 +1,6 @@
 # Security Hub can be used to provide a comprehensive view of an organization's cloud security posture within an AWS environment
 
-## Utilising Audit (security) account to enable Security Hub.
+## Utilizing Audit (security) account to enable Security Hub.
 
 ![alt text](<2024-11-25 18.14.10 d-9067dd9ac2.awsapps.com 25656c67e73f.png>)
 
