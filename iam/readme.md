@@ -13,3 +13,9 @@
 
 ## See what is permissible 
 ![alt text](<Screenshot 2024-11-25 at 11-47-19 Create role IAM Global.png>) 
+
+## Automation Script
+
+Used a fully-automated Bash script to stand up IAM users, groups, policies, and console access.  
+View it here:  
+https://github.com/Rordan1/infrastructure-simulation/blob/main/IAM/.sh
